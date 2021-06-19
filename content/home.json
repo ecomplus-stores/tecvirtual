@@ -48,14 +48,11 @@
       "collection_id": "60c373cf641ad82fcc260bc8:categories:RECEPTORES ACM:/tecnologia-acm/"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
-      "offset": 0
+      "offset": 0,
+      "autoplay": 0,
+      "sort": null
     }
   ]
 }
