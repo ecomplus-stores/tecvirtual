@@ -7,9 +7,9 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "img": "/img/uploads/htvbrasil.jpg",
+          "link": "https://tecvirtual.netlify.app/htv-box-7",
+          "alt": "HTV 7 Somente Internet",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
