@@ -5,14 +5,14 @@
   "sections": [
     {
       "type": "breadcrumbs",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "page-title"
     },
     {
       "type": "blog",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
