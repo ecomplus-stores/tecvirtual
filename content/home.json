@@ -52,6 +52,17 @@
       "offset": 0,
       "autoplay": 0,
       "sort": null
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-07-02T19:10:27.563Z",
+          "end": "",
+          "img": "/img/uploads/mi11.jpg"
+        }
+      ]
     }
   ]
 }
