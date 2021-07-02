@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 6000,
       "slides": [
         {
           "start": "2021-06-22T20:09:11.197Z",
@@ -17,6 +17,11 @@
           "end": "2021-07-02T19:12:47.025Z",
           "img": "/img/uploads/banner-play-5.jpeg",
           "link": "https://www.tecvirtual.com.br/playstation-5-825gb-digital-edition---sony"
+        },
+        {
+          "start": "2021-07-02T19:14:44.502Z",
+          "end": "",
+          "img": "/img/uploads/mi11.jpg"
         }
       ]
     },
@@ -58,17 +63,6 @@
       "offset": 0,
       "autoplay": 0,
       "sort": null
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-07-02T19:10:27.563Z",
-          "end": "",
-          "img": "/img/uploads/mi11.jpg"
-        }
-      ]
     }
   ]
 }
