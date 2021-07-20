@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "@media (min-width: 992px) {\n.header {\n    background: url(../img/uploads/bg.jpg) no-repeat center top;\n    height: 236px;\n}\n.header__logo {\n    max-width: 223px;\n    max-height: 124px;\n    margin-top: -35px;\n}\n.header__nav {\n    width: 1210px;\n    position: absolute;\n    left: -660px;\n    margin-top: 81px;\n}\n  \n}",
   "html_head": "",
   "html_body": ""
 }
