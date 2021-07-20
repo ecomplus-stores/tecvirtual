@@ -26,12 +26,12 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<div class=\"banner-centro\">\n\t<div class=\"container\">\n\t\t<div class=\"mini-banner\">\n\t\t\t<a href=\"#\">\n\t\t\t\t<img src=\"https://www.tecvirtual.com.br/img/uploads/mini1.jpg\">\n\t\t\t</a>\n\t\t</div>\n\t\t<div class=\"mini-banner\">\n\t\t\t<a href=\"#\">\n\t\t\t\t<img src=\"https://www.tecvirtual.com.br/img/uploads/mini2.jpg\">\n\t\t\t</a>\n\t\t</div>\n\t</div>\n</div>"
-    },
-    {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"banner-centro\">\n\t<div class=\"container\">\n\t\t<div class=\"mini-banner\">\n\t\t\t<a href=\"#\">\n\t\t\t\t<img src=\"https://www.tecvirtual.com.br/img/uploads/mini1.jpg\">\n\t\t\t</a>\n\t\t</div>\n\t\t<div class=\"mini-banner\">\n\t\t\t<a href=\"#\">\n\t\t\t\t<img src=\"https://www.tecvirtual.com.br/img/uploads/mini2.jpg\">\n\t\t\t</a>\n\t\t</div>\n\t</div>\n</div>"
     },
     {
       "type": "collection-shelf",
