@@ -67,6 +67,10 @@
       "offset": 0,
       "autoplay": 0,
       "sort": null
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"texto-footer\">\n\t<div class=\"insta-footer\">\n\t\t<div class=\"title-insta\">@tecvirtualoficial</div>\n\t\t\t<div id=\"instagram-feed\"></div>\n\t</div>\n\t\t\n\t<div class=\"logo-footer\">\n\t\t<img src=\"../img/uploads/logo-footer.png\">\n\t</div>\n\n\t<div class=\"text-footer\">\n\t\t\t<p>Nossa marca, Tec Virtual, é uma grande referência comercial, atuando no mercado de receptores desde 2017. <br><br>Nosso objetivo é, cada vez mais, trabalhar a gestão de marcas de forma constante, pois a consideramos um ativo estratégico cada vez mais importante para alcançar nosso objetivo em expandir nossa gama de produtos.</p>\n\t</div>\n</div>"
     }
   ]
 }
