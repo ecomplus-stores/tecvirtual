@@ -182,7 +182,24 @@ const networksWithColors = [
         <h2 class="footer__title footer__store">
           Siga-nos
         </h2>
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Foficialtecvirtual&tabs&width=320&height=150&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=348301289312384" width="320" height="150" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+        <p><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Foficialtecvirtual&tabs&width=320&height=150&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=348301289312384" width="320" height="150" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></p>
+      </div>
+
+    </div>
+
+    <div class="pag-new">
+      <div class="mt-12 mb-12">
+          <div class="footer__payment-methods">
+            <% Object.keys(footer.payment_methods).forEach(method => { %>
+              <% if (footer.payment_methods[method]) { %>
+                <i class="pay-icon pay-icon--<%= method %>"></i>
+              <% } %>
+            <% }) %>
+          </div>
+          <div class="footer__stamps">
+            <%- await include(`@/sections/stamps`, { _, opt: { stamps: footer.stamps } }) %>
+          </div>
+        </div>
     </div>
 
     <div class="footer__credits">
