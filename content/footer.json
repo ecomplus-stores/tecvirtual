@@ -41,6 +41,7 @@
     "bradesco": false,
     "santander": false,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
     "hiper": false,
     "diners": false,
