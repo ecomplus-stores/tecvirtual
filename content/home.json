@@ -33,13 +33,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "start": "2022-01-08T21:59:42.108Z",
-          "end": "",
-          "img": "/img/uploads/2022obrigado.png"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "collection-shelf",
