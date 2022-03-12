@@ -33,7 +33,14 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": []
+      "slides": [
+        {
+          "start": "2022-03-12T18:05:25.907Z",
+          "end": "",
+          "img": "/img/uploads/prazo-de-entrega-novo.png",
+          "link": "https://www.tecvirtual.com.br/pages/entrega"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
