@@ -5,3 +5,11 @@
 .order-info__details address, .account-addresses__address {
   color: #000 !important;
 }
+// editar status financeiro desconhecido
+.orders-list__financial-status--unknown {
+ font-size: 0 
+}
+.orders-list__financial-status--unknown:after {
+ font-size: 1rem !important;
+ content: 'Ouvidoria/SAC' 
+}
