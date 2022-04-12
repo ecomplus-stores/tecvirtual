@@ -20,15 +20,7 @@
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
-    },
-    {
-      "src": "<div id=\"reputation-ra\"><script type=\"text/javascript\" id=\"ra-embed-reputation\" src=\"https://s3.amazonaws.com/raichu-beta/selos/bundle.js\" data-id=\"QlFHMV9KWmY4U0tlcFVPVDp0ZWMtdmlydHVhbA==\" data-target=\"reputation-ra\" data-model=\"1\"></script></div>"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
     "visa": true,
