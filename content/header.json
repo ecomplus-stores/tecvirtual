@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Todo site com parcelamento até 6X Sem Juros | 10% OFF via PIX ou Boleto",
+    "text": "Atividade de Vendas estão suspensas temporariamente.",
     "link": ""
   },
   "contacts_stripe": {
@@ -18,5 +18,6 @@
     "random": 6,
     "full_width": false
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
