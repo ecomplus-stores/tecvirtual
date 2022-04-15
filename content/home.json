@@ -1,11 +1,17 @@
 {
-  "meta_title": "Btv B11 com My Family Cinema",
-  "meta_description": "Btv B11 Original",
+  "meta_title": "",
+  "meta_description": "",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 6000,
       "slides": [
+        {
+          "start": "2022-04-15T22:48:30.917Z",
+          "end": "2022-04-15T22:48:30.957Z",
+          "img": "/img/uploads/b11-tec-banner.png",
+          "link": "https://www.tecvirtual.com.br/b11-original-btv---2g-ram-16gb-flash---melhor-preco"
+        },
         {
           "start": "2022-01-24T16:09:25.939Z",
           "end": "",
@@ -19,10 +25,10 @@
           "link": "https://www.tecvirtual.com.br/tecnologia-acm/"
         },
         {
-          "start": "2022-04-15T22:48:30.917Z",
-          "end": "2022-04-15T22:48:30.957Z",
-          "img": "/img/uploads/b11-tec-banner.png",
-          "link": "https://www.tecvirtual.com.br/b11-original-btv---2g-ram-16gb-flash---melhor-preco"
+          "start": "2022-04-15T22:50:08.908Z",
+          "end": "2022-04-15T22:50:08.934Z",
+          "img": "/img/uploads/htva5.png",
+          "link": "https://www.tecvirtual.com.br/atv-a5-8k-ultra-hd-cortex-a55-quad-core"
         }
       ],
       "full_width": true
