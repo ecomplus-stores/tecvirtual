@@ -7,6 +7,12 @@
       "autoplay": 6000,
       "slides": [
         {
+          "start": "2022-05-14T15:12:03.286Z",
+          "end": "2022-07-01T15:12:03.321Z",
+          "img": "/img/uploads/off-frete.png",
+          "mobile_img": "/img/uploads/off-frete.png"
+        },
+        {
           "start": "2022-04-15T22:48:30.917Z",
           "end": "",
           "img": "/img/uploads/b11-tec-banner.png",
