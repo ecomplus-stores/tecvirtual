@@ -7,10 +7,10 @@
       "autoplay": 6000,
       "slides": [
         {
-          "start": "2022-05-26T13:49:19.390Z",
+          "start": "2022-01-24T16:29:46.289Z",
           "end": "",
-          "img": "/img/uploads/tva-box0tec0virtual.png",
-          "link": "https://www.tecvirtual.com.br/tva-b-12-4k-wi-fi-iptv-android"
+          "img": "/img/uploads/futeboltec.png",
+          "link": "https://www.tecvirtual.com.br/tecnologia-acm/"
         },
         {
           "start": "2022-05-14T15:12:03.286Z",
@@ -19,28 +19,10 @@
           "mobile_img": "/img/uploads/off-frete.png"
         },
         {
-          "start": "2022-04-15T22:48:30.917Z",
-          "end": "",
-          "img": "/img/uploads/b11-tec-banner.png",
-          "link": "https://www.tecvirtual.com.br/b11-original-btv---2g-ram-16gb-flash---melhor-preco"
-        },
-        {
           "start": "2022-01-24T16:09:25.939Z",
           "end": "",
           "img": "/img/uploads/iptv-correto.png",
           "link": "https://www.tecvirtual.com.br/iptv-somente-internet/"
-        },
-        {
-          "start": "2022-04-15T22:50:08.908Z",
-          "end": "",
-          "img": "/img/uploads/htva5.png",
-          "link": "https://www.tecvirtual.com.br/atv-a5-8k-ultra-hd-cortex-a55-quad-core"
-        },
-        {
-          "start": "2022-01-24T16:29:46.289Z",
-          "end": "",
-          "img": "/img/uploads/futeboltec.png",
-          "link": "https://www.tecvirtual.com.br/tecnologia-acm/"
         }
       ],
       "full_width": true
