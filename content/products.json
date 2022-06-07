@@ -17,6 +17,10 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vem-pra-tec-pedidos.png"
+    },
+    {
       "type": "product-description",
       "enabled": true
     },
