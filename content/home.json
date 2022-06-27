@@ -7,10 +7,10 @@
       "autoplay": 6000,
       "slides": [
         {
-          "start": "2022-06-14T17:49:58.026Z",
+          "start": "2022-06-27T17:04:08.290Z",
           "end": "",
-          "img": "/img/uploads/red-flix-bom.png",
-          "link": "https://www.tecvirtual.com.br/redflix-by-redplay-ultra-hd-wi-fi-iptv-somente-internet"
+          "img": "/img/uploads/oferrbanner.png",
+          "link": "https://www.tecvirtual.com.br/promocao-da-semana-tec-virtual"
         },
         {
           "start": "2022-01-24T16:29:46.289Z",
@@ -29,9 +29,15 @@
           "end": "",
           "img": "/img/uploads/iptv-correto.png",
           "link": "https://www.tecvirtual.com.br/iptv-somente-internet/"
+        },
+        {
+          "start": "2022-06-14T17:49:58.026Z",
+          "end": "",
+          "img": "/img/uploads/red-flix-bom.png",
+          "link": "https://www.tecvirtual.com.br/redflix-by-redplay-ultra-hd-wi-fi-iptv-somente-internet"
         }
       ],
-      "full_width": true
+      "full_width": false
     },
     {
       "type": "info-bar",
