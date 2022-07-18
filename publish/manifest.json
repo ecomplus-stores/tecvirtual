@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.22525568d4afaa3a4fa9f82d724b17a1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b656e694ba5df045c5e474a3bdc4f404.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e1cd41e6571c2b2b38e80eb54f95bb16.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.46a90d4140f593ff6bfef7a5f633bde7.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.fae71cd46e7c7d34eb3f61a77e8e411c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Tec Virtual",
+  "short_name": "Tec Virtual",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Nossa marca, Tec Virtual, é uma grande referência comercial, atuando no mercado de receptores desde 2017. Nosso objetivo é, cada vez mais, trabalhar a gestão de marcas de forma constante, pois a consideramos um ativo estratégico cada vez mais importante para alcançar nosso objetivo em expandir nossa gama de produtos.",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
