@@ -1,6 +1,6 @@
 {
-  "active": false,
-  "title": "Site em Manutenção!",
-  "body": "Por Favor Aguarde...\n\n## Atendimento Encontra-se Indisponível\n\nO atendimento, em todos nossos canais, encontra-se temporariamente indisponível devido a problemas de saúde.  Pedimos paciência aos clientes que tem pedidos em aberto e que aguardem o retorno normal das atividades que devem ocorrem em breve.",
+  "active": true,
+  "title": "Voltamos em breve !!",
+  "body": "Por Favor Aguarde...\n\n## Carregando promoções\n\nEstamos preparando promoções incríveis para vocês! Fiquem atentos!",
   "unlock_key": "#liberar"
 }
