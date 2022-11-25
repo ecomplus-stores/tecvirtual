@@ -29,9 +29,14 @@
           "end": "",
           "img": "/img/uploads/red-flix-bom.png",
           "link": "https://www.tecvirtual.com.br/redflix-by-redplay-ultra-hd-wi-fi-iptv-somente-internet"
+        },
+        {
+          "start": "2022-11-25T03:03:11.111Z",
+          "end": "2022-11-27T03:02:50.285Z",
+          "img": "/img/uploads/black-das-black.png"
         }
       ],
-      "full_width": false
+      "full_width": true
     },
     {
       "type": "info-bar",
