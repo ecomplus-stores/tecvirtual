@@ -7,6 +7,11 @@
       "autoplay": 6000,
       "slides": [
         {
+          "start": "2022-11-25T03:03:11.111Z",
+          "end": "2022-11-27T03:02:50.285Z",
+          "img": "/img/uploads/black-das-black.png"
+        },
+        {
           "start": "2022-01-24T16:29:46.289Z",
           "end": "",
           "img": "/img/uploads/futeboltec.png",
@@ -29,11 +34,6 @@
           "end": "",
           "img": "/img/uploads/red-flix-bom.png",
           "link": "https://www.tecvirtual.com.br/redflix-by-redplay-ultra-hd-wi-fi-iptv-somente-internet"
-        },
-        {
-          "start": "2022-11-25T03:03:11.111Z",
-          "end": "2022-11-27T03:02:50.285Z",
-          "img": "/img/uploads/black-das-black.png"
         }
       ],
       "full_width": true
