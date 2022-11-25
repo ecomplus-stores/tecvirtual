@@ -75,6 +75,10 @@
       "collection_id": "60c373d8641ad82fcc260be4:categories:Eletrônicos :/eletronicos-geral/"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/black-das-black.png"
+    },
+    {
       "type": "brands-carousel",
       "limit": 30,
       "offset": 0,
