@@ -1,24 +1,26 @@
 {
-  "domain": "tecvirtual.com.br",
+  "domain": "www.lojatransfer.com.br",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
-    "custom": "niche-game"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/tecvirtual",
-  "logo": "/img/uploads/logonew.png",
-  "name": "Tec Virtual",
-  "short_name": "Tec Virtual",
+  "logo": "/img/uploads/logop-menor-transfer.png",
+  "name": "Transfer",
+  "short_name": "digitaleletronicos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favcontec.png",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/favcontec.png",
+  "icon": "/img/icon.png",
   "store_id": 3041,
-  "description": "Nossa marca, Tec Virtual, é uma grande referência comercial, atuando no mercado de receptores desde 2017. Nosso objetivo é, cada vez mais, trabalhar a gestão de marcas de forma constante, pois a consideramos um ativo estratégico cada vez mais importante para alcançar nosso objetivo em expandir nossa gama de produtos.",
-  "large_icon": "/img/uploads/favcontec.png"
+  "description": "digitaleletronicos",
+  "large_icon": "/img/large-icon.png"
 }
